@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mongoose": "^8.2.2",
+    "node": "^21.7.1",
+    "validator": "^13.11.0"
+  },
+  "name": "mongose",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
